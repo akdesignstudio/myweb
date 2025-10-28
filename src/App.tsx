@@ -16,7 +16,7 @@ function App() {
         <Portfolio />
         <About />
         <Process />
-        <Testimonials />
+        <Case Studies />
         <Contact />
       </Layout>
     </ThemeProvider>
