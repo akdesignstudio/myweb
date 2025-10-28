@@ -18,9 +18,9 @@ const Testimonials: React.FC = () => {
     <section id="testimonials" className="py-24 bg-neutral-50 dark:bg-neutral-900">
       <div className="container mx-auto px-4 md:px-6">
         <AnimatedElement animation="fade-up" className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Client Testimonials</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Case Studies</h2>
           <p className="text-neutral-600 dark:text-neutral-400 max-w-2xl mx-auto">
-            Don't just take my word for it. Here's what clients have to say about working with me.
+           Improving User Engagement for a Apps, Platform, Product and Website through UX Redesign
           </p>
         </AnimatedElement>
 
