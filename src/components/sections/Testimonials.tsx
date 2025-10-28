@@ -24,7 +24,7 @@ const Testimonials: React.FC = () => {
           </p>
         </AnimatedElement>
 
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-full mx-auto">
           <div className="relative overflow-hidden">
             <div 
               className="flex transition-transform duration-500 ease-in-out" 
