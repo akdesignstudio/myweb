@@ -35,7 +35,7 @@ const Testimonials: React.FC = () => {
                   <div className="bg-white dark:bg-neutral-800 rounded-2xl shadow-lg p-8 md:p-12">
                     <div className="flex flex-col md:flex-row md:items-center gap-8">
                       <div className="flex-shrink-0">
-                        <div className="w-20 h-20 md:w-24 md:h-24 rounded-full overflow-hidden">
+                        <div className="w-200 h-200 md:w-240 md:h-240 rounded-2xl overflow-hidden">
                           <img 
                             src={testimonial.imageUrl} 
                             alt={testimonial.name} 
