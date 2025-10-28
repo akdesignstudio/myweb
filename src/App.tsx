@@ -5,7 +5,7 @@ import Hero from './components/sections/Hero';
 import About from './components/sections/About';
 import Portfolio from './components/sections/Portfolio';
 import Process from './components/sections/Process';
-import Casestudies from './components/sections/Testimonials';
+import Testimonials from './components/sections/Testimonials';
 import Contact from './components/sections/Contact';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
         <Portfolio />
         <About />
         <Process />
-        <Casestudies />
+        <Testimonials />
         <Contact />
       </Layout>
     </ThemeProvider>
