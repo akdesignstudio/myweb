@@ -43,7 +43,7 @@ const Header: React.FC = () => {
     >
       <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
         <a href="#" className="text-2xl font-bold tracking-tighter">
-          ab<span className="text-indigo-600 dark:text-indigo-400">studio</span>
+          ab<span className="text-indigo-600 dark:text-indigo-400">design</span>
         </a>
 
         {/* Desktop Navigation */}
