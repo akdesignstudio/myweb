@@ -12,7 +12,7 @@ export const testimonials: Testimonial[] = [
     id: 1,
     project_name: "Minibet - Game Betting Platform",
     role: "UX/UI Design",
-    company: "OpenXcell Pvt. Ltd.",
+    company: "OpenXcell Pvt Ltd",
     quote: "A full-scale Game Betting Platform built from scratch, combining casino-style games and sports betting for both web and mobile users. I led the end-to-end product design — from conceptualization to final UI — including the admin dashboard, transaction flows, and responsive interface.",
     imageUrl: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
@@ -20,7 +20,7 @@ export const testimonials: Testimonial[] = [
     id: 2,
     project_name: "CIN7 Core – Orders, Inventory & Shipping Management System",
     role: "Product Designer",
-    company: "CIN7 India Pvt. Ltd.",
+    company: "CIN7 India Pvt Ltd",
     quote: "CIN7 Core is a cloud-based ERP platform designed for businesses that need centralized control over orders, inventory, purchasing, warehouses, and fulfillment.",
     imageUrl: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
