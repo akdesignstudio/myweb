@@ -39,7 +39,7 @@ const Testimonials: React.FC = () => {
                           <img 
                             src={testimonial.imageUrl} 
                             alt={testimonial.name} 
-                            className="w-full h-full object-cover"
+                            className="w-full h-full object-fill"
                           />
                         </div>
                       </div>
