@@ -1,6 +1,6 @@
 export interface Testimonial {
   id: number;
-  name: string;
+  project_name: string;
   role: string;
   company: string;
   quote: string;
@@ -10,26 +10,26 @@ export interface Testimonial {
 export const testimonials: Testimonial[] = [
   {
     id: 1,
-    name: "Sarah Johnson",
-    role: "Product Manager",
-    company: "TechInnovate",
-    quote: "Working with this designer transformed our product. They have an incredible ability to understand user needs and translate them into beautiful, functional designs. Our user engagement increased by 45% after the redesign.",
+    project_name: "Minibet.games",
+    role: "UX/UI Design",
+    company: "OpenXcell Pvt. Ltd."
+    quote: "A full-scale Game Betting Platform built from scratch, combining casino-style games and sports betting for both web and mobile users. I led the end-to-end product design — from conceptualization to final UI — including the admin dashboard, transaction flows, and responsive interface.",
     imageUrl: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {
     id: 2,
-    name: "Michael Rodriguez",
-    role: "CEO",
-    company: "Startup Vision",
-    quote: "The attention to detail and strategic thinking in their design process is outstanding. They didn't just make our app look better—they made it work better. Users immediately noticed the difference.",
+    project_name: "CIN7 Core – Orders, Inventory & Shipping Management System",
+    role: "Product Designer",
+    company: "CIN7 India Pvt. Ltd.",
+    quote: "CIN7 Core is a cloud-based ERP platform designed for businesses that need centralized control over orders, inventory, purchasing, warehouses, and fulfillment.",
     imageUrl: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {
     id: 3,
-    name: "Emma Chen",
-    role: "Marketing Director",
-    company: "Global Brands",
-    quote: "Their ability to balance aesthetics with functionality is remarkable. The redesign not only looked stunning but also significantly improved our conversion rates. It was a pleasure collaborating with such a talented designer.",
+    name: "Orderhive - Orders, Inventory & Shipping Management System",
+    role: "Senior Product Designer",
+    company: "OpenXcell Pvt. Ltd.",
+    quote: "Orderhive is a centralized order, inventory, warehouse, and shipping management system designed to automate workflows across eCommerce, wholesale, and retail channels.",
     imageUrl: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   }
 ];
