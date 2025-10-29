@@ -187,7 +187,7 @@ const Contact: React.FC = () => {
                 </div>
               </div>
               
-              {/* <div>
+             {/* <div>
                 <h3 className="text-2xl font-semibold mb-6">Office Hours</h3>
                 <div className="bg-white dark:bg-neutral-800 rounded-2xl shadow-lg p-6">
                   <div className="space-y-3">
