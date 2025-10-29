@@ -21,7 +21,7 @@ export const testimonials: Testimonial[] = [
     name: "CIN7 Core – Orders Inventory & Shipping Management System",
     role: "Product Designer",
     company: "CIN7 India Pvt Ltd",
-    quote: "CIN7 Core is a cloud-based ERP platform designed for businesses that need centralized control over orders, inventory, purchasing, warehouses, and fulfillment.",
+    quote: "CIN7 Core is a cloud-based ERP platform designed for businesses that need centralized control over orders, inventory, purchasing, warehouses, and fulfillment. My involvement focused on automation workflows, improving the orders, inventory modules filters on the listing, and layout improvements.",
     imageUrl: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {
@@ -29,7 +29,7 @@ export const testimonials: Testimonial[] = [
     name: "Orderhive - Orders Inventory & Shipping Management System",
     role: "Senior Product Designer",
     company: "OpenXcell Pvt. Ltd.",
-    quote: "Orderhive is a centralized order, inventory, warehouse, and shipping management system designed to automate workflows across eCommerce, wholesale, and retail channels. My involvement focused on designing optimized workflows, improving the order processing experience, and enabling fast dispatch operations through UI setup, automation, training, and layout improvements.",
+    quote: "Orderhive is a centralized order, inventory, warehouse, and shipping management system designed to automate workflows across eCommerce, wholesale, and retail channels. My involvement focused on designing optimized workflows, improving the order processing experience, and enabling fast dispatch operations through UI setup, automation, and layout improvements.",
     imageUrl: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   }
 ];
