@@ -156,7 +156,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium mb-1">Email</h4>
-                    <a href="mailto:hello@designstudio.com" className="text-neutral-600 dark:text-neutral-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
+                    <a href="mailto:akalvania@gmail.com" className="text-neutral-600 dark:text-neutral-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
                       akalvania@gmail.com
                     </a>
                   </div>
@@ -168,7 +168,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium mb-1">Phone</h4>
-                    <a href="tel:+15551234567" className="text-neutral-600 dark:text-neutral-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
+                    <a href="tel:+919624837799" className="text-neutral-600 dark:text-neutral-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
                       +91 9624 83 7799
                     </a>
                   </div>
@@ -187,7 +187,7 @@ const Contact: React.FC = () => {
                 </div>
               </div>
               
-              <div>
+              {/* <div>
                 <h3 className="text-2xl font-semibold mb-6">Office Hours</h3>
                 <div className="bg-white dark:bg-neutral-800 rounded-2xl shadow-lg p-6">
                   <div className="space-y-3">
@@ -203,13 +203,13 @@ const Contact: React.FC = () => {
                       <span className="text-neutral-600 dark:text-neutral-400">Sunday</span>
                       <span className="font-medium">Closed</span>
                     </div>
-                  </div>
+                  </div> */}
                   
-                  <div className="mt-6 pt-6 border-t border-neutral-200 dark:border-neutral-700">
+                  {/* <div className="mt-6 pt-6 border-t border-neutral-200 dark:border-neutral-700">
                     <p className="text-neutral-600 dark:text-neutral-400 text-sm">
                       Note: All times are in Pacific Time (PT). For urgent inquiries outside business hours, please email me and I'll get back to you as soon as possible.
                     </p>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
