@@ -77,7 +77,7 @@ const Testimonials: React.FC = () => {
             ))}
           </div>
           
-          <div className="flex justify-center mt-8 space-x-4">
+          {/* <div className="flex justify-center mt-8 space-x-4">
             <button
               onClick={prevTestimonial}
               className="p-3 rounded-full border border-neutral-200 hover:bg-neutral-100 dark:border-neutral-700 dark:hover:bg-neutral-800 transition-colors"
@@ -92,7 +92,7 @@ const Testimonials: React.FC = () => {
             >
               <ChevronRight size={24} />
             </button>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
