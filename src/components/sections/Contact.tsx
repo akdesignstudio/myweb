@@ -203,15 +203,15 @@ const Contact: React.FC = () => {
                       <span className="text-neutral-600 dark:text-neutral-400">Sunday</span>
                       <span className="font-medium">Closed</span>
                     </div>
-                  </div> */}
+                  </div>
                   
-                  {/* <div className="mt-6 pt-6 border-t border-neutral-200 dark:border-neutral-700">
+                  <div className="mt-6 pt-6 border-t border-neutral-200 dark:border-neutral-700">
                     <p className="text-neutral-600 dark:text-neutral-400 text-sm">
                       Note: All times are in Pacific Time (PT). For urgent inquiries outside business hours, please email me and I'll get back to you as soon as possible.
                     </p>
-                  </div> */}
+                  </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </AnimatedElement>
         </div>
