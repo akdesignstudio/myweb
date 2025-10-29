@@ -26,7 +26,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    name: "Orderhive - Orders, Inventory & Shipping Management System",
+    project_name: "Orderhive - Orders, Inventory & Shipping Management System",
     role: "Senior Product Designer",
     company: "OpenXcell Pvt. Ltd.",
     quote: "Orderhive is a centralized order, inventory, warehouse, and shipping management system designed to automate workflows across eCommerce, wholesale, and retail channels.",
