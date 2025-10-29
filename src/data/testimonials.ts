@@ -18,7 +18,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     id: 2,
-    project_name: "CIN7 Core – Orders, Inventory & Shipping Management System",
+    project_name: "CIN7 Core – Orders Inventory & Shipping Management System",
     role: "Product Designer",
     company: "CIN7 India Pvt Ltd",
     quote: "CIN7 Core is a cloud-based ERP platform designed for businesses that need centralized control over orders, inventory, purchasing, warehouses, and fulfillment.",
@@ -26,7 +26,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    project_name: "Orderhive - Orders, Inventory & Shipping Management System",
+    project_name: "Orderhive - Orders Inventory & Shipping Management System",
     role: "Senior Product Designer",
     company: "OpenXcell Pvt. Ltd.",
     quote: "Orderhive is a centralized order, inventory, warehouse, and shipping management system designed to automate workflows across eCommerce, wholesale, and retail channels.",
