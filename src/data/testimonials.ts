@@ -10,7 +10,7 @@ export interface Testimonial {
 export const testimonials: Testimonial[] = [
   {
     id: 1,
-    project_name: "Minibet.games",
+    project_name: "Minibet - Game Betting Platform",
     role: "UX/UI Design",
     company: "OpenXcell Pvt. Ltd.",
     quote: "A full-scale Game Betting Platform built from scratch, combining casino-style games and sports betting for both web and mobile users. I led the end-to-end product design — from conceptualization to final UI — including the admin dashboard, transaction flows, and responsive interface.",
