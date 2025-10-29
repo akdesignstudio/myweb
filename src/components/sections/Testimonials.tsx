@@ -45,17 +45,15 @@ const Testimonials: React.FC = () => {
                       </div>
                       
                       <div>
-                        <Quote className="text-indigo-400 mb-4 opacity-30" size={40} />
-                        <p className="text-neutral-700 dark:text-neutral-300 text-lg italic mb-6">
-                          "{testimonial.quote}"
-                        </p>
-                        
                         <div>
                           <p className="font-medium text-lg">{testimonial.name}</p>
                           <p className="text-neutral-600 dark:text-neutral-400">
                             {testimonial.role}, {testimonial.company}
                           </p>
                         </div>
+                        <p className="text-neutral-700 dark:text-neutral-300 text-lg italic mb-6">
+                          {testimonial.quote}
+                        </p>
                       </div>
                     </div>
                   </div>
